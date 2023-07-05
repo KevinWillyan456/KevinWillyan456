@@ -4,10 +4,10 @@
 
 <h2>Principais repositórios</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-music&theme=radical)](https://github.com/KevinWillyan456/purchaseway-music)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=pw-animes-react&theme=radical)](https://github.com/KevinWillyan456/pw-animes-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=vision-mp&theme=radical)](https://github.com/KevinWillyan456/vision-mp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-music&theme=radical)](https://github.com/KevinWillyan456/purchaseway-music)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-animes&theme=radical)](https://github.com/KevinWillyan456/purchaseway-animes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=curso-de-react&theme=radical)](https://github.com/KevinWillyan456/curso-de-react)
 
 <h2>Tecnologias</h2>
 
@@ -16,6 +16,7 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="React JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="React JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
