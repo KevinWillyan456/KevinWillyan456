@@ -4,10 +4,10 @@
 
 <h2>Principais repositórios</h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=pw-music-game&theme=radical)](https://github.com/KevinWillyan456/pw-music-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=pw-animes-react&theme=radical)](https://github.com/KevinWillyan456/pw-animes-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=vision-mp&theme=radical)](https://github.com/KevinWillyan456/vision-mp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-music&theme=radical)](https://github.com/KevinWillyan456/purchaseway-music)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-animes&theme=radical)](https://github.com/KevinWillyan456/purchaseway-animes)
 
 <h2>Tecnologias</h2>
 
