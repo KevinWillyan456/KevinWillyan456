@@ -1,13 +1,13 @@
-<h2>Olá, sou o Kevin</h2>
+<h1>👋&nbsp;Olá, Sou o Kevin um Desenvolvedor Web</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWillyan456&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/KevinWillyan456)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWillyan456&layout=compact&theme=radical)
 
 <h2>Principais repositórios</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=pw-music-game&theme=radical)](https://github.com/KevinWillyan456/pw-music-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-portfolio&theme=radical)](https://github.com/KevinWillyan456/purchaseway-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-manga&theme=radical)](https://github.com/KevinWillyan456/purchaseway-manga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=nikko-extension&theme=radical)](https://github.com/KevinWillyan456/nikko-extension)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=pw-animes-react&theme=radical)](https://github.com/KevinWillyan456/pw-animes-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=vision-mp&theme=radical)](https://github.com/KevinWillyan456/vision-mp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-music&theme=radical)](https://github.com/KevinWillyan456/purchaseway-music)
 
 <h2>Tecnologias</h2>
 
