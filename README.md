@@ -2,6 +2,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWillyan456&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/KevinWillyan456)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWillyan456&layout=compact&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinWillyan456/KevinWillyan456/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinWillyan456/KevinWillyan456/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KevinWillyan456/KevinWillyan456/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1>Principais repositórios</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinWillyan456&repo=purchaseway-blog&theme=radical)](https://github.com/KevinWillyan456/purchaseway-blog)
