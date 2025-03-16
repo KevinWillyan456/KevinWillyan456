@@ -44,6 +44,13 @@
   <img align="center" alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
+<h1>OS</h1>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Linux" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="VS Code" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+</div>
+
 <h1>Contato</h1>
 
 <div>
