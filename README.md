@@ -1,10 +1,12 @@
-<h1>👋&nbsp;Olá, Meu nome é Kevin sou um Desenvolvedor Web</h1>
+<h1>👋&nbsp;Olá, meu nome é Kevin e sou Desenvolvedor Web</h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento web full-stack. Trabalho no frontend com Next.js e Tailwind CSS, integrando ferramentas e bibliotecas conforme as necessidades do projeto, sempre buscando manter organização, desempenho e escalabilidade.
+Sou estudante de ADS no IFMS e curto criar aplicações web na prática. Trabalho com Next.js e Tailwind no frontend, sempre buscando código limpo, boa performance e soluções que realmente escalam 🚀  
 
-No backend, desenvolvo APIs utilizando Node.js ou Bun, com ênfase no framework Elysia para aplicações rápidas, tipadas e modulares. Para camada de dados, utilizo Prisma ou Drizzle, escolhendo a solução mais adequada ao ambiente e às exigências de cada projeto.
+Atuo como desenvolvedor full-stack, construindo interfaces modernas e APIs rápidas com Elysia, utilizando Node.js e Bun como runtime — com bastante atenção ao ambiente de desenvolvimento e padronização de código usando ESLint e Prettier.  
 
-Atualmente, estou consolidando práticas avançadas de arquitetura, automação e qualidade de código, enquanto evoluo meus projetos para níveis cada vez mais profissionais.
+Estou sempre evoluindo em arquitetura, automação e qualidade de código, levando meus projetos para um nível cada vez mais profissional e aprendendo algo novo no caminho.
+
+<img src="https://count.getloli.com/@Kevinwillyan456?name=KevinWillyan456&theme=original-new&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="KevinWillyan456" />
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,bun,nodejs,express,elysia,spring,react,nextjs,vite,tailwind,prisma,postgres,mysql,docker,vercel,git,github,postman,linux,windows,vscode,figma&theme=dark" />
 
